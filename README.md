@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi, I'm Axia.
+
+#### <span style="color: purple;">About Me</span>
+An Aspiring C# Game Programmer that used Unity Who
 
 <!--
 **AxiaTheDeveloper/AxiaTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+
+-->
+Games that I have developed 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
