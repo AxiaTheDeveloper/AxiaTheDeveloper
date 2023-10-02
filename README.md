@@ -8,10 +8,6 @@
 
 <!--
 **AxiaTheDeveloper/AxiaTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 -->
 Games that I have developed 
 - 🔭 I’m currently working on ...
@@ -22,5 +18,9 @@ Games that I have developed
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Here are some ideas to get you started:
+
+
+
 
 
