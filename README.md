@@ -1,14 +1,24 @@
 <a name="readme-top-About Me"></a>
 ### Hi, I'm Axia.
-<h4 align="center">
-  <p>I'm an aspiring C# Game Programmer with experience in Unity</p>
-  <p>, embarking on my journey in game programming in 2021</p>
-  <p>fully dedicating myself to it since February 2023.</p>
-</h4>
+#### I'm an aspiring C# Game Programmer with experience in Unity, embarking on my journey in game programming in 2021 fully dedicating myself to it since February 2023.
 
+#### Here are list of **Finished Games** that I made for University Projects & Competition.
+1. Sign Wizard - an RPG with typing mechanics where you can learn Sign Language by playing it.
+   <div align="center">
+  <img src="https://github.com/AxiaTheDeveloper/AxiaTheDeveloper/assets/101692512/7d868ccc-afd8-47e1-ab50-1f67d7cd7fa1" width="300">
+</div>
+
+   **Awards**
+   Runner up of Game Development Competition Gemastik 2023 and Win the GameXcellence 2023 Technical Excellence Award.
+   
+   This is my first ever big project where I developed it in 1.5 months. My first top down 2D game where I also learned how to do cutscenes, lighting, and post-processing in 2D for the first time. This is also my first time implementing saving methods using json.
+   
+   
+   
+3. a
+4. 
 <!--
 **AxiaTheDeveloper/AxiaTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Games that I have developed 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,6 +29,8 @@ Games that I have developed
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
+--> 
+
 
 
 
