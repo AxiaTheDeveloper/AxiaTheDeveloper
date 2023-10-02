@@ -1,7 +1,8 @@
+<a name="readme-top-About Me"></a>
 ### Hi, I'm Axia.
 
 #### <span style="color: purple;">About Me</span>
-An Aspiring C# Game Programmer that used Unity Who
+I'm an aspiring C# Game Programmer with experience in Unity, embarking on my journey in game programming in 2021 and fully dedicating myself to it since February 2023.
 
 <!--
 **AxiaTheDeveloper/AxiaTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +20,5 @@ Games that I have developed
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
