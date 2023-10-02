@@ -1,4 +1,4 @@
-**<a name="readme-top-About Me"></a>
+<a name="readme-top-About Me"></a>
 ### Hi, I'm Axia.
 <h4 align="center">
   <p>I'm an aspiring C# Game Programmer with experience in Unity</p>
