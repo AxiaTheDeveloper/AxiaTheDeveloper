@@ -4,9 +4,7 @@
 
 #### Here are list of **Finished Games** that I made for University Projects & Competition.
 1. Sign Wizard - an RPG with typing mechanics where you can learn Sign Language by playing it.
-   <div align="center">
   <img src="https://github.com/AxiaTheDeveloper/AxiaTheDeveloper/assets/101692512/7d868ccc-afd8-47e1-ab50-1f67d7cd7fa1" width="300">
-</div>
 
    **Awards**
    Runner up of Game Development Competition Gemastik 2023 and Win the GameXcellence 2023 Technical Excellence Award.
