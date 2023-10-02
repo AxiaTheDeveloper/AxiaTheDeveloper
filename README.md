@@ -11,10 +11,8 @@
    
    This is my first ever big project where I developed it in 1.5 months. My first top down 2D game where I also learned how to do cutscenes, lighting, and post-processing in 2D for the first time. This is also my first time implementing saving methods using json.
    
-   
-   
-3. a
-4. 
+2. Licht - a 2D platformer puzzle game where if the player died player have to start over from the start of the game. 
+3. 
 <!--
 **AxiaTheDeveloper/AxiaTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Games that I have developed 
