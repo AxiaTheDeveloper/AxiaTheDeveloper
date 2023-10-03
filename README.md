@@ -1,4 +1,4 @@
-<a name="readme-top-About Me"></a>
+
 ### Hi, I'm Axia.
 #### I'm an aspiring C# Game Programmer with experience in Unity, embarking on my journey in game programming in 2021 fully dedicating myself to it since February 2023.
 
