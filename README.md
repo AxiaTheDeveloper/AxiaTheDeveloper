@@ -8,8 +8,7 @@
 
    **Awards**
    Runner up of Game Development Competition Gemastik 2023 and Win the GameXcellence 2023 Technical Excellence Award.
-   
-   This is my first ever big project where I developed it in 1.5 months. My first top down 2D game where I also learned how to do cutscenes, lighting, and post-processing in 2D for the first time. This is also my first time implementing saving methods using json.
+
    
 2. Licht - a 2D platformer puzzle game where if the player died player have to start over from the start of the game. 
 3. 
