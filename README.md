@@ -2,9 +2,9 @@
 ### Hi, I'm Axia.
 #### I'm an aspiring C# Game Programmer with experience in Unity, embarking on my journey in game programming in 2021 fully dedicating myself to it since February 2023.
 
-#### Check out this repository list of my **Finished Games** that I made for University Projects & Competition in the pinned repository below.
+#### Check out this repository list of my **Finished Games** that I worked on for University Projects & Competition in the pinned repository below.
 
-#### You can reach me t
+#### You can reach me through my Discord (username : axia_create). Thank you for visiting my page.
 
 <!--
 **AxiaTheDeveloper/AxiaTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
